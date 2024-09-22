@@ -1,6 +1,6 @@
 # Carlos Boaventura 👾
 
-![Tecnologia e Jogos](https://media.giphy.com/media/3o7buirYRY0QcFvTqg/giphy.gif) <!-- GIF de fundo azul para dar um efeito animado -->
+![Tecnologia e Jogos](https://media.giphy.com/media/3o7buirYRY0QcFvTqg/giphy.gif) <!-- Tente um GIF diferente ou uma imagem de fundo estática -->
 
 ## 👋 Sobre Mim
 
