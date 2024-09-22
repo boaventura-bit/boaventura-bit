@@ -19,7 +19,7 @@ Sou um entusiasta de tecnologia e jogos! 💻🎮 Formado em Engenharia de Softw
 ## 📂 Projetos em Destaque
 
 - ![Jogo da Cobrinha](https://media.giphy.com/media/l1J9wEAPhl9NwhZ6Y/giphy.gif)  
-  [Jogo da Cobrinha](https://github.com/seu_usuario/jogo-da-cobrinha) - Uma versão divertida do clássico jogo da cobrinha em Python.
+  [Jogo da Cobrinha](https://github.com/boaventura-bit/COBRINHA) - Uma versão divertida do clássico jogo da cobrinha em Python.
 
 <!-- - ![Projeto 2](https://media.giphy.com/media/l0MYCq6DqZ3hM7EqA/giphy.gif)  
   [Projeto 2](https://github.com/seu_usuario/projeto2) - Descrição do projeto 2.
