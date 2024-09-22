@@ -1,10 +1,10 @@
 # Carlos Boaventura 👾
 
-![Tecnologia e Jogos](https://via.placeholder.com/600x200?text=Tecnologia+e+Jogos) <!-- Substitua pela URL de uma imagem que você goste -->
+![Tecnologia e Jogos](https://media.giphy.com/media/3o7buirYRY0QcFvTqg/giphy.gif) <!-- GIF de fundo azul para dar um efeito animado -->
 
 ## 👋 Sobre Mim
 
-Sou um entusiasta de tecnologia e jogos! 💻🎮 Formado em Engenharia de Software, me divirto explorando novos projetos em Python e criando jogos divertidos. Sempre pronto para desafios e novas aventuras no mundo da programação!
+Sou apaixonado por tecnologia e jogos! 💻🎮 Formado em Engenharia de Software, adoro explorar novos projetos em Python e me divertir criando jogos e soluções criativas. Sempre aberto a desafios e novas aprendizagens!
 
 ---
 
