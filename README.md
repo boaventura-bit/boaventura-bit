@@ -39,6 +39,17 @@ Sou apaixonado por tecnologia e jogos! 💻🎮 Formado em Engenharia de Softwar
 
 ---
 
+## 📊 Estatísticas
+
+![Linguagens](https://img.shields.io/github/languages/top/boaventura-bit/COBRINHA?style=for-the-badge)
+![Commits](https://img.shields.io/github/commit-activity/m/boaventura-bit/COBRINHA?style=for-the-badge)
+
+### Indicador de Commits
+
+- Total de commits: ![Commits Badge](https://img.shields.io/github/commit-activity/m/boaventura-bit/COBRINHA?style=flat-square)
+
+---
+
 ## 📫 Vamos Conversar
 
 Sinta-se à vontade para entrar em contato! Adoro discutir tecnologia e jogos, e sempre estou aberto a novas ideias e colaborações.
