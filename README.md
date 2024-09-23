@@ -16,10 +16,10 @@ Sou apaixonado por tecnologia e jogos! 💻🎮 Formado em Engenharia de Softwar
   <a href="https://www.linkedin.com/in/carlos-antn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.threads.net/@karlinhos_antn" target="_blank">
+  <a href="https://www.threads.net/@boaventura_bit" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" alt="Threads" />
   </a>
-  <a href="https://www.instagram.com/karlinhos_antn/" target="_blank">
+  <a href="https://www.instagram.com/boaventura_bit/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
