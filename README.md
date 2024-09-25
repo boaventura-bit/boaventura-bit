@@ -29,6 +29,7 @@ Sou apaixonado por tecnologia e jogos! 💻🎮 Formado em Engenharia de Softwar
 ## 📂 Projetos em Destaque
 
 - 🐍 [Jogo da Cobrinha](https://github.com/boaventura-bit/COBRINHA) - Uma versão divertida do clássico jogo da cobrinha em Python.
+- 🧩 [Sudoku](https://github.com/boaventura-bit/SUDOKU) - Uma versão do clássico sudoku em Python.
 
 ---
 
