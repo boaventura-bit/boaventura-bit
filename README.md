@@ -36,7 +36,7 @@ Sou apaixonado por tecnologia e jogos! 💻🎮 Formado em Engenharia de Softwar
 ## 🛠️ Tecnologias
 
 - **Linguagem Principal:** Python 🐍
-- **Ferramentas:** Git, Pygame
+- **Ferramentas:** Git, Pygame, Tkinter
 
 ---
 
