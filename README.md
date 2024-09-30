@@ -30,7 +30,7 @@ Sou apaixonado por tecnologia e jogos! 💻🎮 Graduando em Engenharia de Softw
 
 - 🐍 [Jogo da Cobrinha](https://github.com/boaventura-bit/COBRINHA) - Uma versão divertida do clássico jogo da cobrinha em Python.
 - 🧩 [Sudoku](https://github.com/boaventura-bit/SUDOKU) - Uma versão do clássico sudoku em Python.
-- 🏷️ [Gerador de Crachás](https://github.com/boaventura-bit/BadgeMaker) - Uma aplicação para facilitar a geração de crachás simples.
+- 🏷️ [Gerador de Crachás](https://github.com/boaventura-bit/BadgeMaker) - Uma aplicação para facilitar a geração de crachás simples em Python.
 
 ---
 
