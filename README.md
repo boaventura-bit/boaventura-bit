@@ -6,7 +6,7 @@
 
 ## 👋 Sobre Mim
 
-Sou apaixonado por tecnologia e jogos! 💻🎮 Formado em Engenharia de Software, adoro explorar novos projetos em Python e me divertir criando jogos e soluções criativas. Sempre aberto a desafios e novas aprendizagens!
+Sou apaixonado por tecnologia e jogos! 💻🎮 Graduando em Engenharia de Software, adoro explorar novos projetos em Python e me divertir criando jogos e soluções criativas. Sempre aberto a desafios e novas aprendizagens!
 
 ---
 
