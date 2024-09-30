@@ -42,4 +42,4 @@ Sou apaixonado por tecnologia e jogos! 💻🎮 Formado em Engenharia de Softwar
 
 ## 📫 Vamos Conversar
 
-Sinta-se à vontade para entrar em contato! Adoro discutir tecnologia e jogos, e sempre estou aberto a novas ideias e colaborações.
+Sinta-se à vontade para entrar em contato! Adoro discutir tecnologia e jogos, e sempre estou aberto a novas ideias e colaborações!
